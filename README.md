@@ -1,1 +1,1 @@
-# Express Static server Boilerplate
+# Express.js Static server Boilerplate
